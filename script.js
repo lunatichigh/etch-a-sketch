@@ -40,4 +40,8 @@ button.addEventListener("click", function(){
       container.appendChild(newSquare);
     }
   }
+  else{
+    alert("Choose a valid number.");
+    return;
+  }
 });
