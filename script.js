@@ -41,7 +41,7 @@ button.addEventListener("click", function(){
     }
   }
   else{
-    alert("Choose a valid number.");
-    return;
+    alert("Click Reset and choose a valid number equal to or lower than 100.");
+    // return;
   }
 });
