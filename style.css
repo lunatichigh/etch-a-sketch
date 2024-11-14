@@ -33,3 +33,11 @@ body {
 .square:hover{
     background: green;
 }
+#resetButton{
+    padding: 10px;
+    margin-right: 100px;
+    border-radius: 5px;
+    background: red;
+    color: white;
+    font-weight: bold;
+}
